@@ -1,2 +1,7 @@
 testCscPartial: csvファイルからデータを抽出してExcelに貼り付け<br>
 testTxtPartial: txtファイルからデータを抽出してExcelに貼り付け, タブ区切り/カンマ区切りを内部で切替<br>
+testRearrangeColumnsByZeroCrossing: DigitData_Head0シート Digit配列 0を超えたインデックスが先頭になるよう再配列<br>
+testRearrangeColumnsByDigit0: 'Digit再配列インデックスに合わせたTarget/Curent/Measurement/Error再配列<br>
+testExportColumnsToCSV_WithHeaderNames: 各VR個別のDigit CSVファイルを作成<br>
+testCreatePptSummarizingCorrectionResults: リンギング補正結果PPT作成<br>
+testCreatePptSummarizingCorrectionResultsD0: リンギング補正結果PPT作成, Digit0 インデックス再配列用<br>
